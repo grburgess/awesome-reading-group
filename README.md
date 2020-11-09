@@ -23,7 +23,7 @@ https://zoom.us/j/192625456?pwd=VUFaWS9vRERiZ0FVelUvUUFoY2FyQT09
 ###### The time/frequency can be adjusted based on your feedback. The objective is to share and discuss interesting papers together on a regular basis.
 
 ## TLDR;
-   - :heavy_plus_sign: :+1: [Add papers](https://github.com/hadyelsahar/awesome-reading-group/issues/1) and vote on papers you would like to read/discuss
+   - :heavy_plus_sign: :+1: [Add papers](https://github.com/grburgess/awesome-reading-group/issues/1) and vote on papers you would like to read/discuss
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
    - :memo: Give the paper a read before as much in details, focus on specific parts  
    - :loudspeaker: At the beginning of the sessions a volunteer does a brief introduction of the paper
@@ -34,7 +34,7 @@ https://zoom.us/j/192625456?pwd=VUFaWS9vRERiZ0FVelUvUUFoY2FyQT09
 ## Detailed Intstructions
 
 **1 - ADD and VOTE on papers as comments in the** [voting 
-issue](https://oss.navercorp.com/nle-nlp/NLE-NLP-Reading-group/issues/1)
+issue](https://github.com/grburgess/awesome-reading-group/issues/1)
 You may only put the title and the link to the paper, or add any comments to help people to understand why it is worth reading.
 
 <kbd>
