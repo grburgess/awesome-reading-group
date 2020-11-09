@@ -18,7 +18,7 @@ Kudos Lucy Park (Papago NAVER) for coming up with the idea of Agile Reading grou
 ## :watch: Time and Location 
 #### Monday, Tuesday and Thursday xx-xxpm in [physical_location]
 #### Remote participation:
-https://zoom.us/j/xxxxxxxxxxxxxxxx
+https://zoom.us/j/192625456?pwd=VUFaWS9vRERiZ0FVelUvUUFoY2FyQT09
 
 ###### The time/frequency can be adjusted based on your feedback. The objective is to share and discuss interesting papers together on a regular basis.
 
