@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues-raw/grburgess/awesome-reading-group?style=social)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/grburgess/awesome-reading-group?style=social)
 # MPE Gamma Journal Club
 
 ![alt text](https://raw.githubusercontent.com/grburgess/awesome-reading-group/master/logo.png)
